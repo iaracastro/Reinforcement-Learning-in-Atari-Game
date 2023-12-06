@@ -1,0 +1,8 @@
+# Instale também gymnasium[accept-rom-license]
+gymnasium[atari]
+IPython
+matplotlib
+numpy
+psutil
+pygame
+tensorflow
